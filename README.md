@@ -21,30 +21,7 @@ scanner.py **Nmap Project**
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nmap Automation Tool - Detailed Description</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            line-height: 1.6;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-            border: 1px solid #ddd;
-            overflow-x: auto;
-        }
-        .command {
-            color: #007bff;
-            font-weight: bold;
-        }
-        .feature {
-            margin-bottom: 20px;
-        }
-    </style>
+  
 </head>
 <body>
 
